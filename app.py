@@ -7,4 +7,5 @@ def hello_geek():
 
 
 if __name__ == "__main__":
+    # o container docker esta soltando a app na porta 5011!!!! 
     app.run(debug=True)
